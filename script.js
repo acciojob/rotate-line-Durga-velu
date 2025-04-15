@@ -1,23 +1,4 @@
 //your JS code here. If required.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 let angle = 0;
 
 setInterval(() => {
